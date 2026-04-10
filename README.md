@@ -24,17 +24,6 @@ A simple and responsive Weather Application built using **HTML, CSS, and JavaScr
 
 ---
 
-## 📂 Project Structure
-
-weather-app/
-│
-├── index.html # Main HTML file
-├── style.css # Styling file
-├── script.js # JavaScript logic
-└── README.md # Project documentation
-
----
-
 ## 🔑 API Used
 
 **OpenWeatherMap API**
