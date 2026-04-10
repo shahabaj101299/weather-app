@@ -39,4 +39,4 @@ weather-app/
 
 **OpenWeatherMap API**
 
-### Endpoint: https://api.openweathermap.org/data/2.5/weather?q=%7Bcity%7D&appid=%7BAPI_KEY%7D&units=metric
+### Endpoint: https://api.openweathermap.org/data/2.5/weather?q=${city}&appid=${API_key}&units=metric
